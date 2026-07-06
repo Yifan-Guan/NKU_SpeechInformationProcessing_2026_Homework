@@ -5,3 +5,8 @@ ns3_codec/
 checkpoints/
 processed_data/
 data/
+.venv/
+ckpt/
+data/
+outputs/
+speechbrain/
